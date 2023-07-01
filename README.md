@@ -63,6 +63,13 @@ Document title: *BILL_MTB-100* – *Hello World with LED Blinking Template*
  1.1.0   | Updated to support ModusToolbox&trade; software v2.1, added new kits
  1.0.0   | New code example
 
+
+## Authors:
+- *Assoc. Prof. Wiroon Sriborrirux*
+- *ชล*
+- *เอ*
+<br>
+
 <br>
 
 ---------------------------------------------------------
