@@ -1,4 +1,4 @@
-# Empty application template
+# Basic GPIO Interfacing template
 
 This is a minimal starter application template for Infineon MCU devices.
 
