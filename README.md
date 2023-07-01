@@ -14,7 +14,7 @@ For instructions on modifying and using this application template to create appl
    - PSoC&trade; 6 MCU: v4.0.0
    - CY8CKIT-062S2-43012
 - Programming language: C
-- Associated parts: All [PSoC&trade; 6 MCU](https://www.infineon.com/cms/en/product/microcontroller/32-bit-psoc-arm-cortex-microcontroller/psoc-6-32-bit-arm-cortex-m4-mcu) parts, [XMC7000 MCU](https://www.infineon.com/cms/en/product/microcontroller/32-bit-industrial-microcontroller-based-on-arm-cortex-m/), and [AIROC&trade; CYW20829 Bluetooth&reg; LE SoC](https://www.infineon.com/cms/en/product/promopages/airoc20829)
+- Associated parts: the PSoC™ 62 series MCU and the AIROC™ CYW43012.
 
 ## Supported toolchains (make variable 'TOOLCHAIN')
 
